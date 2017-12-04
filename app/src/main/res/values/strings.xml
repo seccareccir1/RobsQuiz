@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RobsQuiz</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="question_a">What was the best thing before sliced bread?</string>
+    <string name="question_b">What color is the Ocean?</string>
+    <string name="question_c">Why do hot dogs come ten to a package and hot dog buns only eight?</string>
+    <string name="question_d">What hair color do they put on the drivers license of a bald man?</string>
+    <string name="question_a_1">Cheese</string>
+    <string name="question_a_2">Toast</string>
+    <string name="question_a_3">Fruit</string>
+    <string name="question_b_1">Blue</string>
+    <string name="question_b_2">Green</string>
+    <string name="question_b_3">Purple</string>
+    <string name="question_c_1">The Law</string>
+    <string name="question_c_2">Conspiracy</string>
+    <string name="question_c_3">Give two to Dog</string>
+    <string name="question_d_1">Hairless</string>
+    <string name="question_d_2">Missing</string>
+    <string name="question_d_3">Freckled</string>
+</resources>
